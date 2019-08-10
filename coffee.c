@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(void)
 {
-  int x,p,count=1,a,value=0;
+  int x,p,a,value=0;
   scanf("%d %d",&x,&p);
   a=(p/100)*x; 
   value=value+x
